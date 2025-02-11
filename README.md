@@ -52,10 +52,6 @@ To-Do-List-CPP/
 │-- .gitignore        # Ignores tasks.txt file
 ```
 
-## Contributing
-Feel free to fork the repository and submit a pull request with any improvements or new features.
-
-
 ## Author
 Created by Joanna Lim (@joanna-lim1)
 
